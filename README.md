@@ -1,4 +1,4 @@
-# 🎥 YouTube RAG Chatbot
+# 🎥 YouTube RAG based Application.
 
 An AI-powered Chrome extension that lets you **ask questions about any YouTube video** and get answers based on its transcript — right inside your browser.
 
